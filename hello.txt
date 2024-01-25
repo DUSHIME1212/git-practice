@@ -1,2 +1,6 @@
 1. Hello, there, my name is Irakoze Mukezwa Loraine
+<<<<<<< HEAD
 2. Hello, there, my name is DUSHIME Don Aime Hosanna
+=======
+2. Hello, there, my name is Cynthia Mutie
+>>>>>>> 2aa81ee759aa9da4bb4479977687b989f17f4612
